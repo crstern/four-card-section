@@ -28,7 +28,7 @@ body{
 }
 
 .title-section{
-    margin: 10em auto;
+    margin: 6em auto;
     width: 540px;
 }
 
@@ -49,7 +49,7 @@ h3{
     -webkit-box-shadow: 8px 10px 5px -4px rgba(0,0,0,0.25);
     -moz-box-shadow: 8px 10px 5px -4px rgba(0,0,0,0.25);
     height: 200px;
-    width: 250px;
+    width: 314px;
     background-color: white;
     padding: 25px;
     text-align: left;
@@ -90,7 +90,7 @@ h3{
 }
 
 
-@media screen and (max-width: 665px) {
+@media screen and (max-width: 766px) {
     .middle-cards{
         flex-direction: column;
     }
